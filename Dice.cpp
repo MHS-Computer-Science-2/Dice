@@ -1,5 +1,3 @@
-﻿// Dice
-
 #include <iostream>
 using namespace std;
 
