@@ -26,29 +26,29 @@ int main()
 {
     srand(unsigned(time(0)));
 
-    //Create a Dice object called d1
+    //Create a Dice object called set1
 
 
-    cout << "Rolling and displaying d1 to see how the Dice class works: " << endl;
+    cout << "Rolling and displaying set1 to see how the Dice class works: " << endl;
     //Roll and display the Dice
 
 
-    //Create a Dice object called d2
+    //Create a Dice object called set2
 
 
-    cout << endl << "Rolling d2 until we get a pair" << endl;
+    cout << endl << "Rolling set2 until we get a pair" << endl;
     //Roll and display the dice until a pair is rolled. When a pair is rolled, break the loop.
 
 
 
-    //Create a Dice object called d3
+    //Create a Dice object called set3
 
 
-    cout << endl << "Rolling d3 until we get a pair" << endl;
+    cout << endl << "Rolling set3 until we get a pair" << endl;
     //Roll and display the dice until a pair is rolled. When a pair is rolled, break the loop.
 
 
-    //Output whether d2 or d3 won the race
+    //Output whether set2 or set3 won the race
 
     system("pause");
 
